@@ -1,3 +1,7 @@
+
+/**
+ * Class of static method specialized in string manipulations
+ */
 export default class StringUtils {
   public static createAlphaNumericTable(): string[] {
     let alpha = 'abcdefghijklmnopqrstuvwxyz';
